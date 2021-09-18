@@ -1,0 +1,26 @@
+{
+  "name": "wedding-planner-authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldrinmcaalim/wedding-planner-authentication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldrinmcaalim/wedding-planner-authentication/issues"
+  },
+  "homepage": "https://github.com/aldrinmcaalim/wedding-planner-authentication#readme",
+  "dependencies": {
+    "@google-cloud/datastore": "^6.5.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
